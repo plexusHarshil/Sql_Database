@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sql Database</string>
+    <string name="add_image">Add Image</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="save">Save</string>
+    <string name="show">Show Data</string>
+    <string name="name">Name: </string>
+    <string name="price1">Price: </string>
+    <string name="weight">Weight: </string>
+    <string name="desc">Description: </string>
+</resources>
